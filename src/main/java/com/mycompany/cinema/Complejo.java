@@ -4,10 +4,6 @@
  */
 package com.mycompany.cinema;
 
-/**
- *
- * @author ateho
- */
 
 
 public class Complejo {

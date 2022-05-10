@@ -4,12 +4,12 @@
  */
 
 package com.mycompany.cinema;
-import javax.swing.JOptionPane;
+
 /**
  *
- * @author atehortua
+ * @author gomez
  */
-public class Cine {
+public class Cinema {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
